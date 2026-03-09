@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+pdfminer.six
+python-docx
+spacy
+sentence-transformers
